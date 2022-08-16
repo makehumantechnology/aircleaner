@@ -1,7 +1,7 @@
 # AirCleaner
 
-![alt text](https://github.com/makehumantechnology/aircleaner/blob/main/aircleaner1.jpg)
-![alt text](https://github.com/makehumantechnology/aircleaner/blob/main/aircleaner2.jpg)
+![alt text](https://github.com/makehumantechnology/aircleaner/blob/main/aircleaner1.jpeg)
+![alt text](https://github.com/makehumantechnology/aircleaner/blob/main/aircleaner2.jpeg)
 
 # BOM
 
