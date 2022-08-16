@@ -1,5 +1,8 @@
 # AirCleaner
 
+![alt text](https://github.com/makehumantechnology/aircleaner/blob/main/aircleaner1.jpg)
+![alt text](https://github.com/makehumantechnology/aircleaner/blob/main/aircleaner2.jpg)
+
 # BOM
 
 - 4 x MDF 16mm case parts
